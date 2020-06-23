@@ -13,6 +13,7 @@ import com.bila.servlet.servlet_container_initializer.service.HandlesTypesServic
 /**
  * @Author: Magician
  * @Desc: 通过SPI方式启动MyServletContainerInitializer#onStartup
+ *        在MATA-INF/services中创建服务
  * @Date: 2020/06/22
  * @Modify By:
  */
